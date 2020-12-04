@@ -1,4 +1,4 @@
-# Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity
+# Less bits is more
 
 
 ## Illustrative 2D example
