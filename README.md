@@ -6,9 +6,9 @@
 	<tbody>
     <tr>
 			<td>  </td>
-			<td align="center"> Target class: King Snake (56) </td>
-			<td align="center"> Target class: Mastiff (243) </td>
-			<td align="center"> Target class: Spider (72)</td>
+			<td align="center"> Full binary network: King Snake (56) </td>
+			<td align="center"> Pruned subnetwork: Mastiff (243) </td>
+			<td align="center"> Bi-half subnetwork: Spider (72)</td>
 		</tr>
 		<tr>
 			<td width="19%" align="center"> Original Image </td>
