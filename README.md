@@ -1,7 +1,7 @@
 # Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity
 
 
-## Gradient Visualization
+## Illustrative 2D example
 <table border=0 >
 	<tbody>
     <tr>
