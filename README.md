@@ -12,9 +12,9 @@
 		</tr>
 		<tr>
 			<td width="19%" align="center"> Original Image </td>
-			<td width="27%" > <img src="https://github.com/liyunqianggyn/Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity/tree/main/2DToyexample/FullNet.pdf"> </td>
-			<td width="27%"> <img src="https://github.com/liyunqianggyn/Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity/tree/main/2DToyexample/Pruneoneweight.pdf"> </td>
-			<td width="27%"> <img src="https://github.com/liyunqianggyn/Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity/tree/main/2DToyexample/Pruneoneweight_half.pdf"> </td>
+			<td width="27%" > <pdf src="https://github.com/liyunqianggyn/Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity/tree/main/2DToyexample/FullNet.pdf"> </td>
+			<td width="27%"> <pdf src="https://github.com/liyunqianggyn/Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity/tree/main/2DToyexample/Pruneoneweight.pdf"> </td>
+			<td width="27%"> <pdf src="https://github.com/liyunqianggyn/Less-bits-is-more-How-pruning-deep-binary-networks-increases-weight-capacity/tree/main/2DToyexample/Pruneoneweight_half.pdf"> </td>
 		</tr>
 	</tbody>
 </table>
