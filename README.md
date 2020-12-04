@@ -21,6 +21,15 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 
 # Dataset
 
+```
+CIFAR-100
+```
+
+
+```
+ImageNet
+```
+
 # Contact
 If you have any problem about our code, feel free to contact
 
