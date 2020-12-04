@@ -2,9 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib
 
-# Display plots inline and change default figure size
-#matplotlib.rcParams['figure.figsize'] = (5.0, 4.0)
-
 font1 = { 'weight' : 'normal',
 'size'   : 14,
 }
@@ -40,16 +37,13 @@ def Compute_decision_boundary(pred_func, X, y):
     Z = pred_func(np.c_[xx.ravel(), yy.ravel()])
     return Z
  
-    
 
-    
 # data initialization
 X = np.array([[0, 0],
                   [0, 1],
                   [1, 0],
                   [1, 1]])
 y = np.array([[0,1,1,0]]).T
-
 
 
 class BinNN(object):
@@ -105,7 +99,7 @@ class BinNN(object):
 
 
 
-################## In the following we plot the unique decision boundaries
+################## Following we plot the unique decision boundaries
 
 
 """
