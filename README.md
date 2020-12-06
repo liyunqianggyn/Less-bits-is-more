@@ -20,9 +20,9 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 </table>
 
 ## Architectures
-```
-   ### Shallow networks: Conv2/4/6/8
-```
+
+### Shallow networks: Conv2/4/6/8
+
 ```
 Shallow networks: Conv2, Conv4, Conv6 and Conv8
 ```
