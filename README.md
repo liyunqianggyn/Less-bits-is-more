@@ -24,22 +24,22 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 ```
 Less bits is more in Pytorch
 ├── archs
-│   ├── cifar-10
-│   │   ├── Conv2.py
-│   │   ├── Conv4.py
-│   │   ├── Conv6.py
-│   │   ├── Conv8.py
-│   │   └── resnet-20.py
-│   ├── cifar-100
-│   │   ├── resnet-18.py
-│   │   ├── resnet-34.py
-│   │   ├── VGG-16.py
-│   │   ├── InceptionV3.py
-│   │   ├── MobileNet.py
-│   │   └── ShuffleNet.py
-│   └── imagenet
-│       ├── resnet-18.py
-│       └── resnet-34.py
+    ├── cifar-10
+    │   ├── Conv2.py
+    │   ├── Conv4.py
+    │   ├── Conv6.py
+    │   ├── Conv8.py
+    │   └── resnet-20.py
+    ├── cifar-100
+    │   ├── resnet-18.py
+    │   ├── resnet-34.py
+    │   ├── VGG-16.py
+    │   ├── InceptionV3.py
+    │   ├── MobileNet.py
+    │   └── ShuffleNet.py
+    └── imagenet
+        ├── resnet-18.py
+        └── resnet-34.py
 ```
 
 ### Shallow networks: Conv2/4/6/8
