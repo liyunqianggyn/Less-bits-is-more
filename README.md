@@ -22,7 +22,7 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 ## Architectures
 
 ```
-Lottery-Ticket-Hypothesis-in-Pytorch
+ Less bits is more in Pytorch
 ├── archs
 │   ├── cifar10
 │   │   ├── AlexNet.py
