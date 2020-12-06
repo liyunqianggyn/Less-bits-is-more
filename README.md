@@ -23,7 +23,7 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 
 ```
 Less bits is more in Pytorch
-├── archs
+── archs
     ├── cifar-10
     │   ├── Conv2.py
     │   ├── Conv4.py
