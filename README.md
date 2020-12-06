@@ -21,6 +21,8 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 
 ## Architectures
 
+### Shallow networks: Conv2/4/6/8
+
 ```
 Shallow networks: Conv2, Conv4, Conv6 and Conv8
 ```
@@ -30,7 +32,7 @@ Shallow networks: Conv2, Conv4, Conv6 and Conv8
 ImageNet
 ```
 
-# Contact
+## Contact
 If you have any problem about our code, feel free to contact
 
  - y.li-19@tudelft.nl
