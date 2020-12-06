@@ -24,18 +24,19 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 ```
 Less bits is more in Pytorch
 ├── archs
-│   ├── cifar10
+│   ├── cifar-10
 │   │   ├── Conv2.py
 │   │   ├── Conv4.py
 │   │   ├── Conv6.py
 │   │   ├── Conv8.py
-│   │   └── resnet20.py
-│   ├── cifar100
-│   │   ├── AlexNet.py
-│   │   ├── fc1.py
-│   │   ├── LeNet5.py
-│   │   ├── resnet.py
-│   │   └── vgg.py
+│   │   └── resnet-20.py
+│   ├── cifar-100
+│   │   ├── resnet-18.py
+│   │   ├── resnet-34.py
+│   │   ├── VGG-16.py
+│   │   ├── InceptionV3.py
+│   │   ├── MobileNet.py
+│   │   └── ShuffleNet.py
 │   └── mnist
 │       ├── AlexNet.py
 │       ├── fc1.py
