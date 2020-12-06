@@ -25,12 +25,11 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 Less bits is more in Pytorch
 ├── archs
 │   ├── cifar10
-│   │   ├── AlexNet.py
-│   │   ├── densenet.py
-│   │   ├── fc1.py
-│   │   ├── LeNet5.py
-│   │   ├── resnet.py
-│   │   └── vgg.py
+│   │   ├── Conv2.py
+│   │   ├── Conv4.py
+│   │   ├── Conv6.py
+│   │   ├── Conv8.py
+│   │   └── resnet20.py
 │   ├── cifar100
 │   │   ├── AlexNet.py
 │   │   ├── fc1.py
@@ -51,7 +50,6 @@ Less bits is more in Pytorch
 ├── requirements.txt
 ├── saves
 └── utils.py
-
 ```
 
 ### Shallow networks: Conv2/4/6/8
