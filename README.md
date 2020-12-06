@@ -40,14 +40,6 @@ Less bits is more in Pytorch
 │   └── imagenet
 │       ├── resnet-18.py
 │       └── resnet-34.py
-├── combine_plots.py
-├── dumps
-├── main.py
-├── plots
-├── README.md
-├── requirements.txt
-├── saves
-└── utils.py
 ```
 
 ### Shallow networks: Conv2/4/6/8
