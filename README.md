@@ -37,12 +37,9 @@ Less bits is more in Pytorch
 │   │   ├── InceptionV3.py
 │   │   ├── MobileNet.py
 │   │   └── ShuffleNet.py
-│   └── mnist
-│       ├── AlexNet.py
-│       ├── fc1.py
-│       ├── LeNet5.py
-│       ├── resnet.py
-│       └── vgg.py
+│   └── imagenet
+│       ├── resnet-18.py
+│       └── resnet-34.py
 ├── combine_plots.py
 ├── dumps
 ├── main.py
