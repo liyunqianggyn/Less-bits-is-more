@@ -19,10 +19,10 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 	</tbody>
 </table>
 
-## Architectures
+## Architectures and Datasets
 
 ```
- Less bits is more in Pytorch
+Less bits is more in Pytorch
 ├── archs
 │   ├── cifar10
 │   │   ├── AlexNet.py
