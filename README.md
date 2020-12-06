@@ -21,7 +21,40 @@ This is the PyTorch implementation of [Less bits is more: How pruning deep binar
 
 ## Architectures
 
-#### Shallow networks: Conv2/4/6/8
+```
+Lottery-Ticket-Hypothesis-in-Pytorch
+├── archs
+│   ├── cifar10
+│   │   ├── AlexNet.py
+│   │   ├── densenet.py
+│   │   ├── fc1.py
+│   │   ├── LeNet5.py
+│   │   ├── resnet.py
+│   │   └── vgg.py
+│   ├── cifar100
+│   │   ├── AlexNet.py
+│   │   ├── fc1.py
+│   │   ├── LeNet5.py
+│   │   ├── resnet.py
+│   │   └── vgg.py
+│   └── mnist
+│       ├── AlexNet.py
+│       ├── fc1.py
+│       ├── LeNet5.py
+│       ├── resnet.py
+│       └── vgg.py
+├── combine_plots.py
+├── dumps
+├── main.py
+├── plots
+├── README.md
+├── requirements.txt
+├── saves
+└── utils.py
+
+```
+
+### Shallow networks: Conv2/4/6/8
 
 ```
 Shallow networks: Conv2, Conv4, Conv6 and Conv8
